@@ -14,9 +14,10 @@ Experiment 3 output :
 <img width="317" height="401" alt="image" src="https://github.com/user-attachments/assets/844c4fe8-1897-46cf-8acb-439e114ae5c4" />
 
 Experiment 4 output :
+<img width="317" height="296" alt="image" src="https://github.com/user-attachments/assets/91d56457-02e4-41af-b52a-e08ba3cd7396" />
 
-<img width="357" height="457" alt="image" src="https://github.com/user-attachments/assets/605b7cb2-158f-4443-8f87-4291c2ed4919" />
+
 
 Experiment 5 output :
 
-<img width="315" height="295" alt="image" src="https://github.com/user-attachments/assets/1727925a-0367-4e04-88fa-16883fbbbdb4" />
+
