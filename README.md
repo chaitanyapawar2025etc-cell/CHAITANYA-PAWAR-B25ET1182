@@ -27,3 +27,4 @@ Experiment 5 output :
 
 Experiment 6 output :
 
+<img width="328" height="137" alt="image" src="https://github.com/user-attachments/assets/62352a50-c271-4cce-8053-8848dac41f93" />
